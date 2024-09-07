@@ -1,4 +1,4 @@
-## **README: Academy EduQando - Seu guia personalizado para o sucesso nos estudos!** 
+## **README: Academy EduQando - Seu guia personalizado para o sucesso nos estudos! - - Imersão Dev com Google Gemini** 
 
 **O que é a Academy EduQando?**
 
